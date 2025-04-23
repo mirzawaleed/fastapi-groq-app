@@ -33,7 +33,6 @@ cd fastapi-groq-app
 ### Create and activate venv
 ```bash
 python -m venv .venv
-source .venv/bin/activate
 ```
 
 ### Install dependencies
